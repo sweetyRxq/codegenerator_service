@@ -54,3 +54,4 @@ public class ConfigChaincodeEntity implements Serializable {
 
 }
 
+
