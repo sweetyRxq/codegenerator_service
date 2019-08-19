@@ -9,3 +9,5 @@ public interface AuthFunctionRepository extends JpaSpecificationExecutor<AuthFun
 
 }
 
+
+

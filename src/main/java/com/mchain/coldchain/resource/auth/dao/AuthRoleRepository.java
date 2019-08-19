@@ -9,3 +9,5 @@ public interface AuthRoleRepository extends JpaSpecificationExecutor<AuthRole>, 
 
 }
 
+
+

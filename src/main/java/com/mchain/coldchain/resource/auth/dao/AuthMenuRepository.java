@@ -14,3 +14,5 @@ public interface AuthMenuRepository extends JpaSpecificationExecutor<AuthMenu>, 
 	List<AuthMenu> fetchTopMenus();
 }
 
+
+
