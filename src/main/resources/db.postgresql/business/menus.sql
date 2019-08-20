@@ -1,0 +1,3 @@
+-- The custom functions here
+INSERT INTO auth_menu (code,name,parent_code, sort_index, function_code,icon, url, params) VALUES ('MN_BUSSINESS_MNG','业务类管理',NULL,30000,'MN_BUSSINESS_MNG',NULL,'/bussiness',NULL);
+INSERT INTO auth_menu (code,name,parent_code, sort_index, function_code,icon, url, params) VALUES ('MN_RESOURCECAR_MNG','业务冷藏车管理','MN_BUSSINESS_MNG',31000,'MN_RESOURCECAR_MNG',NULL,'/resourcecar','views/resourcecar/index');
