@@ -12,3 +12,4 @@ public interface AuthUserRepository extends JpaSpecificationExecutor<AuthUser>, 
 }
 
 
+

@@ -12,7 +12,7 @@ import org.springframework.jdbc.datasource.init.ResourceDatabasePopulator;
 import org.springframework.stereotype.Component;
 @Component
 @Order(1)
-public class coldchianServiceInitDBRunner implements ApplicationRunner {
+public class ColdchianServiceInitDBRunner implements ApplicationRunner {
 	@Autowired
 	private DataSource dataSource;
 	

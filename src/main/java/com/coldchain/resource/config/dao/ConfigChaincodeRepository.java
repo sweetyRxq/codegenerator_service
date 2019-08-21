@@ -10,3 +10,4 @@ public interface ConfigChaincodeRepository extends JpaSpecificationExecutor<Conf
 }
 
 
+

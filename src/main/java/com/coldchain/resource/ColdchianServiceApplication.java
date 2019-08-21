@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class coldchianServiceApplication
+public class ColdchianServiceApplication
 {
     public static void main( String[] args )
     {
-    	SpringApplication.run(coldchianServiceApplication.class, args);
+    	SpringApplication.run(ColdchianServiceApplication.class, args);
     }
 }
