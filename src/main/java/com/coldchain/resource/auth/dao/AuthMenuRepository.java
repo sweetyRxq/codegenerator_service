@@ -16,3 +16,4 @@ public interface AuthMenuRepository extends JpaSpecificationExecutor<AuthMenu>, 
 
 
 
+
