@@ -1,0 +1,1 @@
+INSERT INTO cfg_chaincode_entity (name,alias) VALUES ('RESOURCECAR','冷藏车');INSERT INTO cfg_chaincode_entity (name,alias) VALUES ('RESOURCEBOX','冷藏箱');
