@@ -1,1 +1,0 @@
-INSERT INTO auth_role (code, name, description) values ('SUPERADMIN', 'Super Administrator', 'A super administrator role can do anything in the system');
